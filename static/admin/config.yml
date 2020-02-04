@@ -1,5 +1,8 @@
 backend:
-  name: test-repo
+backend:
+name: github
+repo: bauwalk/bau-1-netlify
+  
 
 media_folder: static/assets
 public_folder: assets
